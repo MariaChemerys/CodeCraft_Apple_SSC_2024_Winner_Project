@@ -1,4 +1,7 @@
 <h1 align="center">CodeCraft</h1>
+<p align="center">
+<img src="https://drive.google.com/file/d/1gJDKdaE7GqZuub9_H9_pEchvmFE_RviJ/view?usp=drive_link" width="800" height="450"/>
+</p>
 
 <h2>Description</h2>
 What if programming concepts could introduce themselves to students? Imagine a function with a thick moustache or a variable wearing hippie accessories explaining their purpose to learners.
