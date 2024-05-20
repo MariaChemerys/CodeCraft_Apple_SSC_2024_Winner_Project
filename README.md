@@ -48,4 +48,4 @@ To create CodeCraft, the following resources were used: <br>
 
 The sound effects were edited using <b>VideoPad Professional</b>, which is allowed by their usage policies. <br>
 The images were edited using <b>Picsart</b>, which is allowed by their usage policies. <br>
-All other content in my project was created by me and I have ownership rights to it.
+All other content in my project was created by me and I have ownership rights to it.<br>
