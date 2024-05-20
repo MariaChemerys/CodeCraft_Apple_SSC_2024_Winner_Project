@@ -32,6 +32,17 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/SpriteKit-17fce2?style=for-the-badge" alt="SpriteKit" />
   <img src="https://img.shields.io/badge/AVFoundation-ff0f83?style=for-the-badge" alt="AVFoundation" />
   <img src="https://img.shields.io/badge/AVKit-9ecdff?style=for-the-badge" alt="AVKit" />
-  
+  <img src="https://img.shields.io/badge/VideoPad%20Professional-09ad03?style=for-the-badge" alt="VideoPad Professional" />
+  <img src="https://img.shields.io/badge/Picsart-ee33ff?style=for-the-badge" alt="Picsart" />
 </p>
 <h2>Credits</h2>
+To create CodeCraft, the following resources were used: <br>
+• free sound effects from https://www.fesliyanstudios.com/ named Light Switch On Off 05 Sound Effect (file toggle.mp3 in the project) and Magic Spell A Short Sound Effect (unlocking.mp3). Their use complies with Fesilyan Studios Sound Effects Policy: https://www.fesliyanstudios.com/sound-effects-policy. <br>
+• sound effects free for use under the Pixabay Content License https://pixabay.com/service/license-summary/ named Sliding Noise V2 (files wheels moving in.mp3 and wheels moving away.mp3), Fast Whoosh (whoosh.mp3 and multiple whoosh.mp3), Clicky Mouse Click (click.mp3) from https://pixabay.com/. <br>
+• Image named Margaret Hamilton from https://science.nasa.gov/people/margaret-hamilton/ (Usage Guidelines: https://www.nasa.gov/nasa-brand-center/images-and-media/) <br>
+• Image named Alan Turing from https://www.britannica.com/biography/Alan-Turing#/media/1/609739/224086(Terms of Use: https://corporate.britannica.com/termsofuse.html) <br>
+• Image named Grace Murray at Vassar from https://vcencyclopedia.vassar.edu/distinguished-alumni/grace-murray-hopper/ (Permissions Policy: https://library.vassar.edu/specialcollections/permissions) <br>
+
+The sound effects were edited using <b>VideoPad Professional</b>, which is allowed by their usage policies. <br>
+The images were edited using <b>Picsart</b>, which is allowed by their usage policies. <br>
+All other content in my project was created by me and I have ownership rights to it.
