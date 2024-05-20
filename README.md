@@ -1,6 +1,6 @@
 <h1 align="center">CodeCraft</h1>
 <p align="center">
-<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20GIF.gif" width="800" height="530"/>
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20GIF.gif" width=auto height="530"/>
 </p>
 
 <h2>Description</h2>
