@@ -20,6 +20,13 @@ CodeCraft includes the following accessibility features:<br>
 Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is an <a href="https://www.wwdcscholars.com/s/AF0E97E9-56FA-48F4-9AD1-B34692D4F326/2024">article</a> on
 <b>WWDCScholars</b> website dedicated to it.
 
+<h2>Screenshots</h2>
+<p align="center">
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Comic%20Screenshot.png?raw=true" width=auto height="300"/>
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Variables%20Screenshot.png?raw=true" width=auto height="300"/>
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Loop%20and%20Array%20Screenshot.png?raw=true" width=auto height="300"/>
+</p>
+
 <h2>Installation Instructions</h2>
 1. Open Xcode<br>
 2. Click on "Clone Git Repository"<br>
